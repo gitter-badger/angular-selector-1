@@ -1,5 +1,7 @@
 # Angular Selector [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indrimuska/angular-selector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![Join the chat at https://gitter.im/indrimuska/angular-selector](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indrimuska/angular-selector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Angular Selector is a native AngularJS directive that transform a simple `<select>` box into a full html select with typeahead. 
 
 ### Features
